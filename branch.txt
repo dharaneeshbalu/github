@@ -1,0 +1,3 @@
+git branch -m branchname
+git branch -a 
+git checkout branchname
